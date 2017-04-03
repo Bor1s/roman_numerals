@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Simple converter from arabic to roman numerals and vise versa.}
   spec.description   = %q{Simple converter from arabic to roman numerals and vise versa.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/Bor1s/roman_numerals"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
