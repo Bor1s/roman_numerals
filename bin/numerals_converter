@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+require 'roman_numerals'
+
+input_arabic_numbers = ARGF.readlines
+
+input_arabic_numbers.each do |string_number|
+  string_number = string_number.chomp
+  converter = RomanNumerals::Converter.new(string_number)
+
+  puts "#{string_number} => #{converter.convert}"
+end
