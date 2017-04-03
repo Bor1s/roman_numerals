@@ -1,6 +1,6 @@
 # RomanNumeralsConverter
 
-Simple converter from arabic to roman numerals and vise versa.
+Simple converter from arabic to roman numerals and vice versa.
 
 ## Installation
 
